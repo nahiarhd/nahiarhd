@@ -44,7 +44,7 @@ command, so the first commit is the feature rather than the boilerplate. MIT.
 <summary><b>器 &nbsp;The armory — what I build with</b></summary>
 <br>
 
-| | |
+| Layer | Tools |
 |---|---|
 | **Models & inference** | vLLM · Transformers · XLM-RoBERTa · ModernBERT · Whisper · PydanticAI |
 | **Services** | Python · FastAPI · Celery · Next.js · React |
@@ -75,7 +75,7 @@ Six Dataiku certifications, earned across two months in late 2024 and early 2025
 <summary><b>卷 &nbsp;The path — where I have worked</b></summary>
 <br>
 
-| | |
+| Role | When |
 |---|---|
 | **AI Lead Engineer** · ADS Digital Partner | Jan 2025 — present · Jakarta |
 | **AI/ML Engineer** · ARMS | Nov — Dec 2024 · Jakarta |
