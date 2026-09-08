@@ -3,7 +3,7 @@
 **AI Engineer — AI that runs where the data lives.**
 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-nahiar-FFD21E?logo=huggingface&logoColor=000)](https://huggingface.co/nahiar)
-[![PyPI](https://img.shields.io/pypi/v/fastapi-project-creator?label=PyPI%20fastapi-project-creator)](https://pypi.org/project/fastapi-project-creator/)
+[![nahiarhdNLP](https://img.shields.io/pypi/v/nahiarhdNLP?label=PyPI%20nahiarhdNLP)](https://pypi.org/project/nahiarhdNLP/)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2F3ICT68299.2025.11442139-B31B1B)](https://doi.org/10.1109/3ICT68299.2025.11442139)
 
 AI Lead Engineer at ADS Digital Partner in Jakarta. I build LLM systems that have to run on
@@ -24,6 +24,9 @@ identification and social bot detection — most of them for Indonesian, Javanes
 neighbouring languages, where good open models are thin on the ground. Grouped into collections:
 [NLP Indonesia Multitask](https://huggingface.co/collections/nahiar/nlp-indonesia-multitask-687f0c565d19acbd3c5e6393)
 and [Bot Detection](https://huggingface.co/collections/nahiar/bot-detection-6926b38366ae2cc21c4e62a9).
+
+**[nahiarhdNLP](https://pypi.org/project/nahiarhdNLP/)** · [source](https://github.com/nahiarhd/NLP_nahiarhd)
+An Indonesian natural language processing library on PyPI, 34 releases and counting. MIT.
 
 **[fastapi-project-creator](https://pypi.org/project/fastapi-project-creator/)**
 A pip-installable CLI that scaffolds a FastAPI project — folder layout, settings, routers — in one
