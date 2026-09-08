@@ -6,7 +6,7 @@
 [![nahiarhdNLP](https://img.shields.io/pypi/v/nahiarhdNLP?label=PyPI%20nahiarhdNLP)](https://pypi.org/project/nahiarhdNLP/)
 [![DOI](https://img.shields.io/badge/DOI-10.1109%2F3ICT68299.2025.11442139-B31B1B)](https://doi.org/10.1109/3ICT68299.2025.11442139)
 
-AI Lead Engineer at ADS Digital Partner in Jakarta. I build LLM systems that have to run on
+AI Engineer. I build LLM systems that have to run on
 someone else's hardware, inside their network — multi-tenant agent control planes, asynchronous
 document-to-answer pipelines with a GraphRAG layer, and NLP inference for Indonesian and its
 regional languages. Permissioned ledgers are the other half of the work.
