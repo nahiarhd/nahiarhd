@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Raihan Hidayatullah Djunaedi — AI Engineer. AI that runs where the data lives.">
+  <title>Raihan Hidayatullah Djunaedi — AI Engineer</title>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f6f0e2"/><stop offset="100%" stop-color="#ede3cf"/>
+    </linearGradient>
+    <radialGradient id="sun">
+      <stop offset="0%" stop-color="#a4392a" stop-opacity="0.5"/>
+      <stop offset="55%" stop-color="#b08d57" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#b08d57" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="6"/></clipPath>
+    <style>
+      .drift { animation: drift 30s linear infinite; }
+      .drift2 { animation: drift 46s linear infinite; }
+      .glow { animation: glow 10s ease-in-out infinite; transform-origin: 986px 116px; }
+      @keyframes drift { from { transform: translateX(-320px);} to { transform: translateX(1320px);} }
+      @keyframes glow { 0%,100% {opacity:.9; transform:scale(1);} 50% {opacity:1; transform:scale(1.05);} }
+      @media (prefers-reduced-motion: reduce) { .drift,.drift2,.glow { animation:none; } }
+    </style>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#sky)"/>
+    <circle class="glow" cx="986" cy="116" r="118" fill="url(#sun)"/>
+    <path d="M0 198 C 90 166, 170 178, 252 150 S 420 192, 524 158 S 700 200, 812 162 S 1010 200, 1200 170 L1200 300 L0 300 Z"  fill="#1d1a16" opacity=".09"/>
+    <path d="M0 234 C 120 204, 214 232, 322 202 S 522 240, 652 206 S 862 244, 982 212 S 1122 240, 1200 224 L1200 300 L0 300 Z"  fill="#1d1a16" opacity=".15"/>
+    <g opacity=".45" fill="#f6f0e2">
+      <g class="drift"><ellipse cx="0" cy="222" rx="164" ry="7"/><ellipse cx="210" cy="236" rx="104" ry="5"/></g>
+      <g class="drift2"><ellipse cx="0" cy="252" rx="200" ry="6"/></g>
+    </g>
+    <path d="M0 266 C 140 246, 262 270, 402 248 S 642 276, 782 252 S 1024 278, 1200 256 L1200 300 L0 300 Z" fill="#1d1a16" opacity=".23"/>
+    <g transform="translate(72 96)">
+      <rect width="66" height="66" rx="4" fill="#a4392a"/>
+      <rect x="5" y="5" width="56" height="56" rx="2" fill="none" stroke="#f6f0e2" stroke-width="1.4" opacity=".85"/>
+      <text x="33" y="46" text-anchor="middle" font-family="'Songti SC','Noto Serif CJK SC','Noto Serif SC',SimSun,serif" font-size="34" fill="#f6f0e2">印</text>
+    </g>
+    <text x="168" y="140" font-family="Georgia,'Times New Roman',serif" font-size="46" fill="#1d1a16">Raihan Hidayatullah Djunaedi</text>
+    <path d="M170 156 C 300 150, 520 162, 742 152" fill="none" stroke="#a4392a" stroke-width="2.2" stroke-linecap="round" opacity=".85"/>
+    <text x="170" y="188" font-family="Georgia,'Times New Roman',serif" font-size="19" fill="#5b544a" letter-spacing="3.4">AI ENGINEER · BLOCKCHAIN</text>
+    <text x="170" y="220" font-family="Georgia,'Times New Roman',serif" font-size="17" fill="#5b544a" font-style="italic">AI that runs where the data lives.</text>
+  </g>
+  <rect x=".5" y=".5" width="1199" height="299" rx="6" fill="none" stroke="#1d1a16" stroke-opacity=".16"/>
+</svg>
